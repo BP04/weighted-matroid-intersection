@@ -1,7 +1,7 @@
-# weighted-matroid-intersection
+# Weighted Matroid Intersection
 
-This repository is created as part of IF1220 - Discrete Mathematics Assignment. I wrote a paper about matroid intersection and its application on network design.
-The problem used as benchmark for the program is [DIY Tree](https://codeforces.com/problemset/problem/1556/H).
+This repository is created as part of IF1220 - Discrete Mathematics Assignment. I wrote a paper about matroid intersection and its application on network design. I also implemented the weighted matroid intersection algorithm.
+The problem used as benchmark for the algorithm is [DIY Tree](https://codeforces.com/problemset/problem/1556/H).
 
 ## How to run
 
